@@ -1,0 +1,18 @@
+{
+  "name": "purescript-yali",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mankyKitty/purescript-yali",
+  "authors": [
+    "Sean Chalmers <sclhiannan@gmail.com>"
+  ],
+  "description": "Yet Another Lens (Vars Laarhoven) Implementation.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
